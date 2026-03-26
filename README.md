@@ -2,7 +2,7 @@
 
 A static fan site dedicated to the **Chennai Super Kings (CSK)** — one of the most popular teams in the **Indian Premier League (IPL)**.
 
-🔗 **Live Demo:** [https://raghu356-dot.github.io/csk-website/#](https://raghu356-dot.github.io/csk-website/#)
+🔗 **Live Demo:** [https://raghu356-dot.github.io/csk-website/#](https://raghu356-dot.github.io/csk-website/#)  its my Favourite team
 
 
 ---
